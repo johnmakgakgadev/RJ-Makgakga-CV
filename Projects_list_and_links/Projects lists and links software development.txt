@@ -1,7 +1,0 @@
-Projects lists and links
-1.E-commerce project  working at Deviare as an Intern
-https://github.com/John071131/Deviare_Project.git
-2.MTN assessment using Dart
-https://gitlab.com/john_makgakga/ramphele-makgakga-module2
-
-
